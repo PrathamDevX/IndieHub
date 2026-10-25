@@ -1,0 +1,12 @@
+{
+  "name": "indiehub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IndieHub - Full-stack music discovery platform",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev"
+  }
+}
